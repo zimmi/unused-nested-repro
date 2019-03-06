@@ -1,2 +1,1 @@
-# unused-nested-repro
-Reproducer for Error Prone bug
+Run `mvn clean package`
